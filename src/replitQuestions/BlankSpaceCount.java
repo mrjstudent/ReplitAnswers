@@ -16,5 +16,7 @@ public class BlankSpaceCount {
 
 		}
 		System.out.println(count);
+		
+		System.out.println("this is just for practicing git pull"
 	}
 }
